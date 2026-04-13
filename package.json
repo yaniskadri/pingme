@@ -1,0 +1,13 @@
+{
+  "name": "pingme-discord-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify app to send messages from a web UI to Discord.",
+  "scripts": {
+    "dev": "netlify dev",
+    "start": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^18.0.0"
+  }
+}
